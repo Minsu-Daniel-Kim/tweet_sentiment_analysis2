@@ -1,0 +1,1 @@
+Since raw data is huge, we remove it from rawData folder. So, in order for you to run this code, you have to place raw data in rawData folder. We recommend you to start from code/main.R -> code/model.R -> evaluation.R -> subimission.R
